@@ -1,0 +1,11 @@
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/bin/Debug/netcoreapp2.1/Ex1.deps.json
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/bin/Debug/netcoreapp2.1/Ex1.runtimeconfig.json
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/bin/Debug/netcoreapp2.1/Ex1.runtimeconfig.dev.json
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/bin/Debug/netcoreapp2.1/Ex1.dll
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/bin/Debug/netcoreapp2.1/Ex1.pdb
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/obj/Debug/netcoreapp2.1/Ex1.csprojAssemblyReference.cache
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/obj/Debug/netcoreapp2.1/Ex1.csproj.CoreCompileInputs.cache
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/obj/Debug/netcoreapp2.1/Ex1.AssemblyInfoInputs.cache
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/obj/Debug/netcoreapp2.1/Ex1.AssemblyInfo.cs
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/obj/Debug/netcoreapp2.1/Ex1.dll
+/Users/askar/projects/PP2/W1G1/Ex1/Ex1/obj/Debug/netcoreapp2.1/Ex1.pdb

@@ -1,0 +1,11 @@
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/bin/Debug/netcoreapp2.1/Ex5.deps.json
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/bin/Debug/netcoreapp2.1/Ex5.runtimeconfig.json
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/bin/Debug/netcoreapp2.1/Ex5.runtimeconfig.dev.json
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/bin/Debug/netcoreapp2.1/Ex5.dll
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/bin/Debug/netcoreapp2.1/Ex5.pdb
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/obj/Debug/netcoreapp2.1/Ex5.csprojAssemblyReference.cache
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/obj/Debug/netcoreapp2.1/Ex5.csproj.CoreCompileInputs.cache
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/obj/Debug/netcoreapp2.1/Ex5.AssemblyInfoInputs.cache
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/obj/Debug/netcoreapp2.1/Ex5.AssemblyInfo.cs
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/obj/Debug/netcoreapp2.1/Ex5.dll
+/Users/askar/projects/PP2/W1G1/Ex5/Ex5/obj/Debug/netcoreapp2.1/Ex5.pdb
