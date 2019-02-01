@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{70CC8E51-B411-4636-A2D3-1E91CFB4006B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex10/Complex.cs">
+    <Files>
+      <File FileName="Ex10/Program.cs" Line="4" Column="2" />
+      <File FileName="Ex10/Complex.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

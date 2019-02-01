@@ -1,0 +1,11 @@
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/bin/Debug/netcoreapp2.1/ExStatic.deps.json
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/bin/Debug/netcoreapp2.1/ExStatic.runtimeconfig.json
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/bin/Debug/netcoreapp2.1/ExStatic.runtimeconfig.dev.json
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/bin/Debug/netcoreapp2.1/ExStatic.dll
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/bin/Debug/netcoreapp2.1/ExStatic.pdb
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/obj/Debug/netcoreapp2.1/ExStatic.csprojAssemblyReference.cache
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/obj/Debug/netcoreapp2.1/ExStatic.csproj.CoreCompileInputs.cache
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/obj/Debug/netcoreapp2.1/ExStatic.AssemblyInfoInputs.cache
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/obj/Debug/netcoreapp2.1/ExStatic.AssemblyInfo.cs
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/obj/Debug/netcoreapp2.1/ExStatic.dll
+/Users/askar/projects/PP2/week2/ExStatic/ExStatic/obj/Debug/netcoreapp2.1/ExStatic.pdb
