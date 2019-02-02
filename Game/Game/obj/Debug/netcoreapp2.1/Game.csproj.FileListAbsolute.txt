@@ -1,0 +1,11 @@
+/Users/askar/projects/PP2/Game/Game/bin/Debug/netcoreapp2.1/Game.deps.json
+/Users/askar/projects/PP2/Game/Game/bin/Debug/netcoreapp2.1/Game.runtimeconfig.json
+/Users/askar/projects/PP2/Game/Game/bin/Debug/netcoreapp2.1/Game.runtimeconfig.dev.json
+/Users/askar/projects/PP2/Game/Game/bin/Debug/netcoreapp2.1/Game.dll
+/Users/askar/projects/PP2/Game/Game/bin/Debug/netcoreapp2.1/Game.pdb
+/Users/askar/projects/PP2/Game/Game/obj/Debug/netcoreapp2.1/Game.csprojAssemblyReference.cache
+/Users/askar/projects/PP2/Game/Game/obj/Debug/netcoreapp2.1/Game.csproj.CoreCompileInputs.cache
+/Users/askar/projects/PP2/Game/Game/obj/Debug/netcoreapp2.1/Game.AssemblyInfoInputs.cache
+/Users/askar/projects/PP2/Game/Game/obj/Debug/netcoreapp2.1/Game.AssemblyInfo.cs
+/Users/askar/projects/PP2/Game/Game/obj/Debug/netcoreapp2.1/Game.dll
+/Users/askar/projects/PP2/Game/Game/obj/Debug/netcoreapp2.1/Game.pdb
