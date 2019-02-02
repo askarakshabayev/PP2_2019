@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B710EF53-FD4C-4D90-9AAE-1307D4F8491C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExStatic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExStatic/Program.cs">
+    <Files>
+      <File FileName="ExStatic/Program.cs" Line="22" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

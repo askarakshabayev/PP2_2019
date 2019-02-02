@@ -1,0 +1,11 @@
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/bin/Debug/netcoreapp2.1/Example2.deps.json
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/bin/Debug/netcoreapp2.1/Example2.runtimeconfig.json
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/bin/Debug/netcoreapp2.1/Example2.runtimeconfig.dev.json
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/bin/Debug/netcoreapp2.1/Example2.dll
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/bin/Debug/netcoreapp2.1/Example2.pdb
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/obj/Debug/netcoreapp2.1/Example2.csprojAssemblyReference.cache
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/obj/Debug/netcoreapp2.1/Example2.csproj.CoreCompileInputs.cache
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/obj/Debug/netcoreapp2.1/Example2.AssemblyInfoInputs.cache
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/obj/Debug/netcoreapp2.1/Example2.AssemblyInfo.cs
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/obj/Debug/netcoreapp2.1/Example2.dll
+/Users/askar/projects/PP2/week2/G2/Example2/Example2/obj/Debug/netcoreapp2.1/Example2.pdb
