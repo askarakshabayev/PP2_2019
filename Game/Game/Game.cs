@@ -54,6 +54,8 @@ namespace Game
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("3. Green door");
             }
+            Console.SetCursorPosition(100, 100);
+            Console.WriteLine("200");
         }
     }
 }
