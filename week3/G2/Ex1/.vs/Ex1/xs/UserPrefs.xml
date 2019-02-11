@@ -1,5 +1,9 @@
-﻿<Properties StartupConfiguration="{4D00362F-FB7F-478E-85F4-B26BBBE1FE5D}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{F4065DE8-B407-45A4-B54F-E2E98C403516}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex1/Program.cs">
+    <Files>
+      <File FileName="Ex1/Program.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
