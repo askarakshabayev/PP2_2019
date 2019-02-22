@@ -1,12 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Xml.Serialization;
+
 namespace Example2
 {
     public class PurchaseOrder
     {
+        [XmlIgnore]
         public Address address;
         public string OrderDate;
+        [XmlArray("Items")]
         public List<OrderItem> OrderItems;
+        public PurchaseOrder() { }
         public PurchaseOrder(Address address, string OrderDate)
         {
             this.address = address;
@@ -14,6 +20,13 @@ namespace Example2
             OrderItems = new List<OrderItem>();
         }
 
+        public void Save(PurchaseOrder order)
+        {
+            FileStream fs = new FileStream("order.xml", FileMode.Truncate, FileAccess.ReadWrite);
+            XmlSerializer xs = new XmlSerializer(typeof(PurchaseOrder));
+            xs.Serialize(fs, order);
+            fs.Close();
+        }
     }
 
     public class Address

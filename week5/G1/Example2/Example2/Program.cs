@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Xml.Serialization;
 
 namespace Example2
 {
@@ -18,6 +20,16 @@ namespace Example2
             PurchaseOrder order = new PurchaseOrder(address, "21.02.2019");
             order.OrderItems.Add(item1);
             order.OrderItems.Add(item2);
+            order.Save(order);
+        }
+
+        public static void F2()
+        {
+            FileStream fs = new FileStream("order.xml", FileMode.OpenOrCreate, FileAccess.ReadWrite);
+            XmlSerializer xs = new XmlSerializer(typeof(PurchaseOrder));
+            PurchaseOrder order = xs.Deserialize(fs) as PurchaseOrder;
+            fs.Close();
+            Console.WriteLine(order.OrderItems[0].ItemName);
         }
         static void Main(string[] args)
         {
