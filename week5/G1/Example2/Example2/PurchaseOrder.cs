@@ -43,6 +43,10 @@ namespace Example2
             this.State = State;
             this.Zip = Zip;
         }
+        public override string ToString()
+        {
+            return Name + " " + City;
+        }
     }
 
     public class OrderItem

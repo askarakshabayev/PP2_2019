@@ -21,6 +21,7 @@ namespace Example2
             order.OrderItems.Add(item1);
             order.OrderItems.Add(item2);
             order.Save(order);
+            Console.WriteLine(address);
         }
 
         public static void F2()
