@@ -1,0 +1,15 @@
+Askar Akshabayev
+Almaty
+Alatau
+050000
+23.02.2019
+Item1
+Description 1
+100
+3
+300
+Item2
+Description 2
+123
+4
+492

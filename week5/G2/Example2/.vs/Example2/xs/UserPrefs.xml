@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{6885A828-BA16-4EDC-B967-F60569A548AB}|Default">
+﻿<Properties StartupConfiguration="{2E4800CA-F541-4ED4-B194-B860D9F1AD91}|Default">
   <MonoDevelop.Ide.ItemProperties.Example2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Example2/PurchaseOrder.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example2/order.xml">
     <Files>
-      <File FileName="Example2/Program.cs" Line="24" Column="38" />
-      <File FileName="Example2/PurchaseOrder.cs" Line="48" Column="37" />
-      <File FileName="Example2/order.xml" Line="1" Column="1" />
+      <File FileName="Example2/Program.cs" Line="62" Column="15" />
+      <File FileName="Example2/PurchaseOrder.cs" Line="10" Column="20" />
+      <File FileName="Example2/order.txt" Line="16" Column="1" />
+      <File FileName="Example2/order.xml" Line="4" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
