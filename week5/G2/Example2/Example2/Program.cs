@@ -73,6 +73,9 @@ namespace Example2
         static void Main(string[] args)
         {
             F2();
+            DirectoryInfo d = new DirectoryInfo("path");
+            d.
+
         }
     }
 }

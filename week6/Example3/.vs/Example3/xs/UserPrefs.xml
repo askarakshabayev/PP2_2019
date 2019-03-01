@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0DCF530E-C774-4130-99B9-51CA86B2989A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Example3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example3/level2.txt">
+    <Files>
+      <File FileName="Example3/Program.cs" Line="8" Column="10" />
+      <File FileName="Example3/GameObject.cs" Line="15" Column="13" />
+      <File FileName="Example3/Point.cs" Line="7" Column="27" />
+      <File FileName="Example3/Snake.cs" Line="30" Column="15" />
+      <File FileName="Example3/Game.cs" Line="26" Column="13" />
+      <File FileName="Example3/Food.cs" Line="10" Column="30" />
+      <File FileName="Example3/Wall.cs" Line="58" Column="22" />
+      <File FileName="Example3/level1.txt" Line="7" Column="39" />
+      <File FileName="Example3/level2.txt" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
