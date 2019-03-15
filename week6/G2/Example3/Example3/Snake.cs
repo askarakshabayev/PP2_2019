@@ -17,23 +17,37 @@ namespace Example3
 
         }
 
-        public void Move(ConsoleKeyInfo keyInfo)
+        public void Move()
         {
+            if (direction == Direction.NONE)
+                return;
+
             for (int i = body.Count - 1; i > 0; i--)
             {
                 body[i].x = body[i - 1].x;
                 body[i].y = body[i - 1].y;
             }
 
-            if (keyInfo.Key == ConsoleKey.UpArrow)
+            if (direction == Direction.UP)
                 body[0].y--;
-            if (keyInfo.Key == ConsoleKey.DownArrow)
+            if (direction == Direction.DOWN)
                 body[0].y++;
-            if (keyInfo.Key == ConsoleKey.LeftArrow)
+            if (direction == Direction.LEFT)
                 body[0].x--;
-            if (keyInfo.Key == ConsoleKey.RightArrow)
+            if (direction == Direction.RIGHT)
                 body[0].x++;
+        }
 
+        public void ChangeDirection(ConsoleKeyInfo keyInfo)
+        {
+            if (keyInfo.Key == ConsoleKey.UpArrow)
+                direction = Direction.UP;
+            if (keyInfo.Key == ConsoleKey.DownArrow)
+                direction = Direction.DOWN;
+            if (keyInfo.Key == ConsoleKey.LeftArrow)
+                direction = Direction.LEFT;
+            if (keyInfo.Key == ConsoleKey.RightArrow)
+                direction = Direction.RIGHT;
         }
     }
 }

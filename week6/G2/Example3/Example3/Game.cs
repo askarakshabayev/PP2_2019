@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 namespace Example3
 {
     public class Game
@@ -30,10 +31,26 @@ namespace Example3
         public void Start()
         {
             ConsoleKeyInfo keyInfo = Console.ReadKey();
+
+            Thread thread = new Thread(MoveSnake);
+            thread.Start();
+
             while (isAlive && keyInfo.Key != ConsoleKey.Escape)
             {
-                Draw();
                 keyInfo = Console.ReadKey();
+                snake.ChangeDirection(keyInfo);
+            }
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.SetCursorPosition(20, 10);
+            Console.WriteLine("GAME OVER!!!");
+        }
+
+        public void MoveSnake()
+        {
+            while (isAlive)
+            {
+                snake.Move();
                 if (snake.IsCollisionWithObject(food))
                 {
                     snake.body.Add(new Point(0, 0));
@@ -47,18 +64,33 @@ namespace Example3
                 {
                     isAlive = false;
                 }
-                snake.Move(keyInfo);
+                Draw();
+                Thread.Sleep(100);
             }
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.SetCursorPosition(20, 10);
-            Console.WriteLine("GAME OVER!!!");
         }
         public void Draw()
         {
             Console.Clear();
             foreach (GameObject g in g_objects)
                 g.Draw();
+        }
+
+        public void Save(Game g)
+        {
+
+        }
+
+        public void Load()
+        {
+
+        }
+        public void ShowMenu()
+        {
+
+        }
+        public void DrawResult()
+        {
+
         }
     }
 }

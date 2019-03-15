@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{64271E56-9333-4070-91B8-3D18A7D52FF4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Example3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example3/Snake.cs">
+    <Files>
+      <File FileName="Example3/Program.cs" Line="19" Column="14" />
+      <File FileName="Example3/Snake.cs" Line="37" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

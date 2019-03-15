@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{B4FD06B0-9BA3-43CE-83B0-07117207F5B3}|Default">
   <MonoDevelop.Ide.ItemProperties.Example3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Example3/level3.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example3/Snake.cs">
     <Files>
-      <File FileName="Example3/Program.cs" Line="9" Column="1" />
-      <File FileName="Example3/GameObject.cs" Line="18" Column="17" />
+      <File FileName="Example3/Program.cs" Line="10" Column="36" />
+      <File FileName="Example3/GameObject.cs" Line="37" Column="41" />
       <File FileName="Example3/Point.cs" Line="4" Column="18" />
-      <File FileName="Example3/Snake.cs" Line="29" Column="57" />
-      <File FileName="Example3/Game.cs" Line="42" Column="42" />
-      <File FileName="Example3/Food.cs" Line="16" Column="27" />
-      <File FileName="Example3/Wall.cs" Line="44" Column="45" />
+      <File FileName="Example3/Snake.cs" Line="38" Column="29" />
+      <File FileName="Example3/Game.cs" Line="8" Column="6" />
+      <File FileName="Example3/Food.cs" Line="11" Column="10" />
+      <File FileName="Example3/Wall.cs" Line="25" Column="38" />
       <File FileName="Example3/level1.txt" Line="9" Column="18" />
       <File FileName="Example3/level2.txt" Line="20" Column="1" />
-      <File FileName="Example3/level3.txt" Line="14" Column="1" />
+      <File FileName="Example3/level3.txt" Line="6" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
