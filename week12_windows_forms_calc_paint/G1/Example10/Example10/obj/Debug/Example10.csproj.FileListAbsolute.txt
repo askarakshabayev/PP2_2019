@@ -1,0 +1,9 @@
+C:\Users\Askar\Desktop\Week12\Example10\Example10\bin\Debug\Example10.exe.config
+C:\Users\Askar\Desktop\Week12\Example10\Example10\bin\Debug\Example10.exe
+C:\Users\Askar\Desktop\Week12\Example10\Example10\bin\Debug\Example10.pdb
+C:\Users\Askar\Desktop\Week12\Example10\Example10\obj\Debug\Example10.Form1.resources
+C:\Users\Askar\Desktop\Week12\Example10\Example10\obj\Debug\Example10.Properties.Resources.resources
+C:\Users\Askar\Desktop\Week12\Example10\Example10\obj\Debug\Example10.csproj.GenerateResource.cache
+C:\Users\Askar\Desktop\Week12\Example10\Example10\obj\Debug\Example10.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\Week12\Example10\Example10\obj\Debug\Example10.exe
+C:\Users\Askar\Desktop\Week12\Example10\Example10\obj\Debug\Example10.pdb

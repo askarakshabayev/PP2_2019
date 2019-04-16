@@ -1,0 +1,10 @@
+C:\Users\Askar\Desktop\Week12\Example4\Example4\bin\Debug\Example4.exe.config
+C:\Users\Askar\Desktop\Week12\Example4\Example4\bin\Debug\Example4.exe
+C:\Users\Askar\Desktop\Week12\Example4\Example4\bin\Debug\Example4.pdb
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.Form1.resources
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.Properties.Resources.resources
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.csproj.GenerateResource.cache
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.exe
+C:\Users\Askar\Desktop\Week12\Example4\Example4\obj\Debug\Example4.pdb

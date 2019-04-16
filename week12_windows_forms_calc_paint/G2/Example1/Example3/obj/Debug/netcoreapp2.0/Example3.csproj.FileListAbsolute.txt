@@ -1,0 +1,11 @@
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\bin\Debug\netcoreapp2.0\Example3.deps.json
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\bin\Debug\netcoreapp2.0\Example3.runtimeconfig.json
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\bin\Debug\netcoreapp2.0\Example3.runtimeconfig.dev.json
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\bin\Debug\netcoreapp2.0\Example3.dll
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\bin\Debug\netcoreapp2.0\Example3.pdb
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\obj\Debug\netcoreapp2.0\Example3.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\obj\Debug\netcoreapp2.0\Example3.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\obj\Debug\netcoreapp2.0\Example3.AssemblyInfoInputs.cache
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\obj\Debug\netcoreapp2.0\Example3.AssemblyInfo.cs
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\obj\Debug\netcoreapp2.0\Example3.dll
+C:\Users\Askar\Desktop\Week12_G2\Example1\Example3\obj\Debug\netcoreapp2.0\Example3.pdb

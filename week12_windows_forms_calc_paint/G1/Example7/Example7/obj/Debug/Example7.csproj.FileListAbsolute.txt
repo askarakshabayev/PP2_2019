@@ -1,0 +1,10 @@
+C:\Users\Askar\Desktop\Week12\Example7\Example7\bin\Debug\Example7.exe.config
+C:\Users\Askar\Desktop\Week12\Example7\Example7\bin\Debug\Example7.exe
+C:\Users\Askar\Desktop\Week12\Example7\Example7\bin\Debug\Example7.pdb
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.Form1.resources
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.Properties.Resources.resources
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.csproj.GenerateResource.cache
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.exe
+C:\Users\Askar\Desktop\Week12\Example7\Example7\obj\Debug\Example7.pdb
